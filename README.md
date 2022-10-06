@@ -1,0 +1,1 @@
+Creating Application load balancer with one ASG and 2 target groups which enables routing based on path using Terraform
